@@ -16,7 +16,7 @@ public class ModuleVoltageCommand extends ObdCommand {
      * Default ctor.
      */
     public ModuleVoltageCommand() {
-        super("01 42");
+        super("21 42");
     }
 
     /**
